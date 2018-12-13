@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542917108 source:d:\12th semester\graphics lab\circle\circle.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+
